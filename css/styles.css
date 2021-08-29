@@ -10,8 +10,9 @@
 
 .bottom-container {
   background-color: #3FC1C9;
-  margin-top: 100px;
-  padding: 50px 0 20px;
+  margin: 100px auto 0 auto;
+  padding: 50px 400px 20px;
+  width: 50%;
 }
 
 .bottom-cloud {
@@ -74,6 +75,8 @@ a:hover {
 
 .contact-me {
   line-height: 2;
+  width: 50%;
+  margin: 0 auto;
 }
 
 .btn {
